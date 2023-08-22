@@ -1,0 +1,5 @@
+{{#user}}
+Name: Rohit Malakar
+Skills: HTML, CSS, JS, React.js, git, python, C
+Email: rohit.malakar821@gmail.com
+{{/user}}
